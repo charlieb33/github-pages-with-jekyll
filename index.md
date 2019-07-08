@@ -1,3 +1,3 @@
-# Welcome to my blog
+# Charlie's Blog
 
-I'm glad you are here. I plan to talk about ...
+Thank you for checking out my blog. I plan on talking about my experiences, knowledge, and projects.
